@@ -1,0 +1,38 @@
+.card__button {
+    margin-top: auto;
+    align-self: baseline;
+
+    & button {
+        display: inline-block;
+        user-select: none;
+        border: none;
+        background-color: var(--Very_light_gray);
+        border-radius: 28px;
+        font-size: 15px;
+        padding: 12px 24px;
+        text-decoration: none;
+        font-family: "Lexend Deca", sans-serif;
+        border: 2px solid var(--Very_light_gray);
+
+        &:hover {
+            cursor: pointer;
+        }
+
+        &:active {
+            background-color: transparent;
+            color: var(--Transparent_white);
+        }
+    }
+}
+
+.button--orange {
+    color: var(--Bright_orange);
+}
+
+.button--Dark_cyan {
+    color: var(--Dark_cyan);
+}
+
+.button--Very_dark_cyan {
+    color: var(--Very_dark_cyan);
+}
