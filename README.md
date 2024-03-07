@@ -20,7 +20,7 @@ Esta es una solucion al desafio [3-column preview card component en Frontend Men
 
 ### Dependencies
 
-**Animate.css**: Es una biblioteca de animaciones listas para usar. [anime.css](https://animate.style/)
+**Animate.css**: Es una biblioteca de animaciones listas para usar. [animate.css](https://animate.style/)
 
 ## Author
 
